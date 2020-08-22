@@ -9,7 +9,7 @@ A centralized collection of git commands.
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository using SSH |
 | `git clone http://github.com/[username]/git.git` | Create a local copy of a remote repository using HTTP |
 
-### Viewing and Changing Remote Origin 
+### Viewing & Changing Remote Origin 
 
 | Command | Description |
 | ------- | ----------- |

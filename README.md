@@ -18,4 +18,11 @@ A centralized collection of git commands.
 | `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add SSH remote origin |
 | `git clone http://github.com/[username]/git.git` | Add HTTP remote origin |
 
+### Misc 
+
+| Command | Description |
+| ------- | ----------- |
+| `git mv <old name> <new name>` | Rename folder locally |
+
+
 [To be continued] 

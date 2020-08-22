@@ -3,8 +3,6 @@
 A centralized collection of git commands. 
 ============
 
---
-
 ### Getting & Creating Projects
 
 | Command | Description |
